@@ -39,7 +39,7 @@
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/digital-wallet.git
+git clone [https://github.com/sayamjn/Code-Gama-Task.git]
 cd digital-wallet
 ```
 
