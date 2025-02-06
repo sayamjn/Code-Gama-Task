@@ -4,6 +4,8 @@ const CurrencyService = require('../services/currencyService');
 const checkFraudulent = require('../middleware/fraudDetection');
 const User = require('../models/User');
 
+const mongoose = require("mongoose");
+
 class WalletController {
   static async getBalance(req, res) {
     try {
